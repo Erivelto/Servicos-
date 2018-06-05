@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GerenciadorFC.Bilhetagem.Domino", "GerenciadorFC.Bilhetagem.Domino\GerenciadorFC.Bilhetagem.Domino.csproj", "{4DA5CA92-EEF7-45C1-9974-2A0CD37B80FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GerenciadorFC.Bilhetagem.Servicos", "GerenciadorFC.Bilhetagem.Servicos\GerenciadorFC.Bilhetagem.Servicos.csproj", "{A7875565-1B03-4023-8809-D9FDF2C5DA42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA5CA92-EEF7-45C1-9974-2A0CD37B80FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA5CA92-EEF7-45C1-9974-2A0CD37B80FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA5CA92-EEF7-45C1-9974-2A0CD37B80FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA5CA92-EEF7-45C1-9974-2A0CD37B80FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7875565-1B03-4023-8809-D9FDF2C5DA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7875565-1B03-4023-8809-D9FDF2C5DA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7875565-1B03-4023-8809-D9FDF2C5DA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7875565-1B03-4023-8809-D9FDF2C5DA42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4043FF3D-0E66-4CB4-8E98-7EDBD8581396}
+	EndGlobalSection
+EndGlobal

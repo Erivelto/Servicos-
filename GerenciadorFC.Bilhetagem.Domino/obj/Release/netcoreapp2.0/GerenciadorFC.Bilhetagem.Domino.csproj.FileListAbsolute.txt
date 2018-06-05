@@ -1,0 +1,8 @@
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Domino\bin\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Domino.deps.json
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Domino\bin\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Domino.dll
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Domino\bin\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Domino.pdb
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Domino\obj\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Domino.csproj.CoreCompileInputs.cache
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Domino\obj\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Domino.AssemblyInfoInputs.cache
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Domino\obj\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Domino.AssemblyInfo.cs
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Domino\obj\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Domino.dll
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Domino\obj\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Domino.pdb

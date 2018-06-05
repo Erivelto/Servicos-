@@ -1,0 +1,13 @@
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Servicos\bin\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Servicos.deps.json
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Servicos\bin\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Servicos.runtimeconfig.json
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Servicos\bin\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Servicos.runtimeconfig.dev.json
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Servicos\bin\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Servicos.dll
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Servicos\bin\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Servicos.pdb
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Servicos\bin\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Domino.dll
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Servicos\bin\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Domino.pdb
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Servicos\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Servicos.csprojResolveAssemblyReference.cache
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Servicos\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Servicos.csproj.CoreCompileInputs.cache
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Servicos\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Servicos.AssemblyInfoInputs.cache
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Servicos\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Servicos.AssemblyInfo.cs
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Servicos\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Servicos.dll
+C:\projeto\Servicos\GerenciadorFC.Bilhetagem\Servicos-\GerenciadorFC.Bilhetagem.Servicos\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Bilhetagem.Servicos.pdb
